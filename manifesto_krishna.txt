@@ -1,9 +1,10 @@
 ----------------------------------------------------------
              OPEN SOURCE MANIFESTO (20 March 2026)                
 ----------------------------------------------------------
-My name is krishna, and I believe in the power of FOSS.
+My name is shiva rohith, and I believe in the power of FOSS.
 Every day, I rely on git to empower my digital life.
 To me, the essence of open source is 'importance'.
+
 
 In the spirit of global collaboration, I pledge that
 one day I will build and share a portfolio with the world,
